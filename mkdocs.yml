@@ -10,13 +10,16 @@ extra:
   generator: false
 
 nav:
+- 图书馆大厅:
+  - 瑰夏图书馆: index.md
+  - 图书馆介绍: library.md
 - D-100H:
   - 岛屿概览: d-100h/index.md
   - 地区资料:
     - 浅坡平原: d-100h/data/riat.md
     - 冷森林: d-100h/data/gailswaite.md
     - 中心城镇：马克帕克: d-100h/data/makpaco.md
-  - 角色资料:
+  - 居民档案:
     - 米拉特尔: d-100h/people/Miratl.md
     - 席尔蒂玛: d-100h/people/Siltima.md
     - 维多利亚: d-100h/people/Victoria.md
@@ -33,6 +36,17 @@ nav:
     - 格拉尔: d-100h/people/Glar.md
     - 米拉: d-100h/people/Miri.md
     - 伊劳雅克: d-100h/people/Illaujaq.md
+- 辉宏都市: cityofhuihong/index.md
+- N-14-A:
+    - 岛屿概览: n-14-a/index.md
+    - 地区资料:
+      - 寒夜区:
+        - 区域概览: n-14-a/coldnight/index.md
+        - 白皑镇:
+          - 小镇介绍: n-14-a/coldnight/whitetown/index.md
+          - 居民档案:
+            - 格兰特: n-14-a/coldnight/whitetown/Galant.md
+    
 
 theme:
   name: material
