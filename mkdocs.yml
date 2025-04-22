@@ -36,7 +36,10 @@ nav:
     - 格拉尔: d-100h/people/Glar.md
     - 米拉: d-100h/people/Miri.md
     - 伊劳雅克: d-100h/people/Illaujaq.md
-- 辉宏都市: cityofhuihong/index.md
+- 辉鸿都市:
+  - 岛屿概览: cityofhuihong/index.md
+  - 居民档案:
+    - 夜兆白枳: cityofhuihong/people/夜兆白枳.md
 - N-14-A:
     - 岛屿概览: n-14-a/index.md
     - 地区资料:
@@ -90,9 +93,8 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
-  - admonition
   - pymdownx.details
-  - pymdownx.superfences
+  - admonition
 
 plugins:
   - search
