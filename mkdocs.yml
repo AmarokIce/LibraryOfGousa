@@ -1,6 +1,6 @@
 site_name: 瑰夏图书馆
-site_author: 'AmarokIce'
-site_description: '盖尔斯威特的土地上，皇家海盗瑰夏决定为居民们带来一坐只是宝库...'
+site_author: "AmarokIce"
+site_description: "盖尔斯威特的土地上，皇家海盗瑰夏决定为居民们带来一坐只是宝库..."
 copyright: Copyright © 2020-2024 AmarokIce
 extra:
   social:
@@ -10,46 +10,63 @@ extra:
   generator: false
 
 nav:
-- 图书馆大厅:
-  - 瑰夏图书馆: index.md
-  - 图书馆介绍: library.md
-- D-100H:
-  - 岛屿概览: d-100h/index.md
-  - 地区资料:
-    - 浅坡平原: d-100h/data/riat.md
-    - 冷森林: d-100h/data/gailswaite.md
-    - 中心城镇：马克帕克: d-100h/data/makpaco.md
-  - 居民档案:
-    - 米拉特尔: d-100h/people/Miratl.md
-    - 席尔蒂玛: d-100h/people/Siltima.md
-    - 维多利亚: d-100h/people/Victoria.md
-    - 帕普斯: d-100h/people/Pappus.md
-    - “阿金”: d-100h/people/Gold.md
-    - 瑰夏: d-100h/people/Gousa.md
-    - 帕尔森: d-100h/people/Parson.md
-    - 帕里斯: d-100h/people/Paris.md
-    - 梅佳斯: d-100h/people/Megace.md
-    - 埃尔&埃米: d-100h/people/BroEiy.md
-    - 吉米: d-100h/people/Jimi.md
-    - 马克兄弟: d-100h/people/BroMark.md
-    - 杰: d-100h/people/Jie.md
-    - 格拉尔: d-100h/people/Glar.md
-    - 米拉: d-100h/people/Miri.md
-    - 伊劳雅克: d-100h/people/Illaujaq.md
-- 辉鸿都市:
-  - 岛屿概览: cityofhuihong/index.md
-  - 居民档案:
-    - 夜兆白枳: cityofhuihong/people/夜兆白枳.md
-- N-14-A:
-    - 岛屿概览: n-14-a/index.md
-    - 地区资料:
-      - 寒夜区:
-        - 区域概览: n-14-a/coldnight/index.md
-        - 白皑镇:
-          - 小镇介绍: n-14-a/coldnight/whitetown/index.md
-          - 居民档案:
-            - 格兰特: n-14-a/coldnight/whitetown/Galant.md
-    
+  - 图书馆大厅:
+      - 瑰夏图书馆: index.md
+      - 图书馆介绍: library.md
+      - 图书馆贡献: libraryedit.md
+  - D-100H:
+      - 岛屿概览: d-100h/index.md
+      - 地区资料:
+          - 浅坡平原:
+              - 区域概览: d-100h/flatland/index.md
+              - 红橡木庄园: d-100h/flatland/redoak.md
+              - 石墙镇: d-100h/flatland/stonewalltown.md
+              - 皮尔镇: d-100h/flatland/pier.md
+
+          - 冷森林:
+              - 区域概览: d-100h/coldforest/index.md
+              - 马克帕克: d-100h/coldforest/makpaco.md
+              - 盖尔斯维特森林: d-100h/coldforest/forest.md
+              - 盖尔斯维特工业园: d-100h/coldforest/izs.md
+              - 盖尔斯维特嘉年华: d-100h/coldforest/carnival.md
+            # - 阿尔斯特: d-100h/coldforest/Alster.md
+            # - 斯图尔特: d-100h/coldforest/Stuart.md
+
+      - 居民档案:
+          - 米拉特尔: d-100h/people/Miratl.md
+          - 席尔蒂玛: d-100h/people/Siltima.md
+          - 维多利亚: d-100h/people/Victoria.md
+          - 帕普斯: d-100h/people/Pappus.md
+          - “阿金”: d-100h/people/Gold.md
+          - 瑰夏: d-100h/people/Gousa.md
+          - 帕尔森: d-100h/people/Parson.md
+          - 帕里斯: d-100h/people/Paris.md
+          - 梅佳斯: d-100h/people/Megace.md
+          - 埃尔&埃米: d-100h/people/BroEiy.md
+          - 吉米: d-100h/people/Jimi.md
+          - 马克兄弟: d-100h/people/BroMark.md
+          - 杰: d-100h/people/Jie.md
+          - 格拉尔: d-100h/people/Glar.md
+          - 米拉: d-100h/people/Miri.md
+          - 伊劳雅克: d-100h/people/Illaujaq.md
+          # - 布兰登: d-100h/flatland/pier/Branden.md
+
+  - 辉鸿都市:
+      - 岛屿概览: cityofhuihong/index.md
+      - 居民档案:
+          - 夜兆白枳: cityofhuihong/people/夜兆白枳.md
+  - N-14:
+      - 岛屿概览: N-14/index.md
+      - 地区资料:
+          - 寒夜区:
+              - 区域概览: N-14/coldnight/index.md
+              - 白皑镇:
+                  - 小镇介绍: N-14/coldnight/whitetown/index.md
+                  - 居民档案:
+                      - 格兰特: N-14/coldnight/whitetown/Galant.md
+  - SN176星云:
+      - 岛屿概览: SN176/index.md
+      - 那瑟提: SN176/Nasetti.md
 
 theme:
   name: material
@@ -62,10 +79,10 @@ theme:
     - navigation.tabs
     - content.code.annotate
     - content.code.copy
-  palette: 
+  palette:
     - scheme: default
       toggle:
-        icon: material/weather-night 
+        icon: material/weather-night
         name: 关闭月亮
 
     - scheme: slate
