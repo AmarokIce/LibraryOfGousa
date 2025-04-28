@@ -3,7 +3,7 @@
 首先需要知道，这是图书馆的资料仓库 (遇到无法访问，尝试挂个梯子): [点我前往 Github 仓库](https://github.com/AmarokIce/LibraryOfGousa)。  
 在开始贡献之前，请熟知 Markdown 的语法: [点我前往中文文档](https://markdown.com.cn/basic-syntax/)。
 
-一切准备好之后，请注意阅读以下规则：
+一切准备好之后，请注意阅读以下规则: 
 
 1. 任何语句都需要句号收尾。
 2. 不同语言类型之间需要使用空格隔开，如中文，英语，数字。例如:  
