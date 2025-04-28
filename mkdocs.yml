@@ -67,6 +67,28 @@ nav:
   - SN176星云:
       - 岛屿概览: SN176/index.md
       - 那瑟提: SN176/Nasetti.md
+      
+  - 天秦大同:
+      - 岛屿概览: 天秦大同/index.md
+      - 地区资料:
+          - 乾天区: 天秦大同/area/乾天区.md
+          - 坤地区: 天秦大同/area/坤地区.md
+          - 震雷区: 天秦大同/area/震雷区.md
+          - 巽风区: 天秦大同/area/巽风区.md
+          - 坎水区: 天秦大同/area/坎水区.md
+          - 离火区: 天秦大同/area/离火区.md
+          - 艮山区: 天秦大同/area/艮山区.md
+          - 兑泽区: 天秦大同/area/兑泽区.md
+      - 聚落资料:
+          - 乾天区: 天秦大同/town/乾天区.md
+          - 坤地区: 天秦大同/town/坤地区.md
+          - 震雷区: 天秦大同/town/震雷区.md
+          - 巽风区: 天秦大同/town/巽风区.md
+          - 离火区: 天秦大同/town/离火区.md
+          - 艮山区: 天秦大同/town/艮山区.md
+          - 兑泽区: 天秦大同/town/兑泽区.md
+      - 居民档案:
+          - 卡伊: 天秦大同/people/kany.md
 
 theme:
   name: material
