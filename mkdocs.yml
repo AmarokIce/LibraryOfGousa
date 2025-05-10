@@ -1,6 +1,6 @@
 site_name: 瑰夏图书馆
-site_author: "AmarokIce"
-site_description: "盖尔斯威特的土地上，皇家海盗瑰夏决定为居民们带来一坐只是宝库..."
+site_author: "Amarok Ice"
+site_description: "盖尔斯威特的土地上，皇家海盗瑰夏决定为居民们带来一坐知识宝库..."
 copyright: Copyright © 2020-2024 AmarokIce
 extra:
   social:
@@ -49,13 +49,15 @@ nav:
           - 格拉尔: d-100h/people/Glar.md
           - 米拉: d-100h/people/Miri.md
           - 伊劳雅克: d-100h/people/Illaujaq.md
-          # - 布兰登: d-100h/flatland/pier/Branden.md
+          - 布兰登: d-100h/people/Branden.md
+          # - 维尔: cityofhuihong/people/维尔.md
 
   - 辉鸿都市:
       - 岛屿概览: cityofhuihong/index.md
       - 居民档案:
           - 夜兆白枳: cityofhuihong/people/夜兆白枳.md
           - 塞维斯: cityofhuihong/people/塞维斯.md
+          - UU: cityofhuihong/people/UU.md
 
   - N-14:
       - 岛屿概览: N-14/index.md
@@ -108,6 +110,7 @@ theme:
     - navigation.tabs
     - content.code.annotate
     - content.code.copy
+
   palette:
     - scheme: default
       toggle:
