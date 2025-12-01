@@ -107,6 +107,10 @@ nav:
           - 岛屿概览: L06/index.md
           - 岛屿居民:
                 - 古特: L06/people/古特.md
+    - 混乱方界:
+          - 岛屿概览: 混乱方界/index.md
+          - 岛屿居民:
+                - 王柳: 混乱方界/王柳.md
 
 theme:
     name: material
